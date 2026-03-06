@@ -1,0 +1,13 @@
+/.idea
+.vscode
+vendor/
+uploads/
+.env
+/.env.local
+config/config.php
+/*.log
+.DS_Store
+Thumbs.db
+node_modules/
+/.phpunit.result.cache
+/.cache/
